@@ -16,3 +16,21 @@ const productsDetails = {name: "chocolate",
     inStock: true};
 
     console.log(products,productsDetails);
+
+// Task 3: Financial Calculations
+
+let accountBalance = 5467.00;
+
+accountBalance += 6.00;
+console.log (accountBalance);
+accountBalance -= 125.00;
+console.log (accountBalance);
+accountBalance *= 2;
+console.log (accountBalance);
+accountBalance /= 3;
+console.log (accountBalance);
+accountBalance %= 75;
+console.log (accountBalance);
+
+
+
